@@ -1,6 +1,8 @@
 # Connect 4
 
-Connect 4 game built using ReactJS.
+Simple Connect 4 game built with ReactJS.
+
+![asdsadas](.git-images/game-image.png)
 
 ## Running the Project
 
